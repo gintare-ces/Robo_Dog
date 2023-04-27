@@ -1,0 +1,18 @@
+/* Header */
+header {
+  background-color: #1c121f;
+  color: whitesmoke;
+
+  .navBar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .logo {
+    display: inline-block;
+  }
+  .navItem {
+    padding: 0.7em 1em;
+    display: inline-block;
+  }
+}
